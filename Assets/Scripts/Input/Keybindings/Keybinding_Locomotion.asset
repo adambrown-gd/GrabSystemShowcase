@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c2936103ff78be9429ff7bfb5639bcf3, type: 3}
+  m_Name: Keybinding_Locomotion
+  m_EditorClassIdentifier: 
+  m_InputType: 0
+  m_KeyboardBinding: 0
+  m_HandBits: 3
+  m_ViveBinding: 32
+  m_TouchpadUses: 2
+  m_IsActive: 1
+  m_Vibrate: 0
+  m_VibrationStrength: 0
+  m_VibrationBits: 0
